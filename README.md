@@ -15,6 +15,6 @@ I am a **Senior Finance Analyst** transitioning into **Data Science and Data Ana
 * **Specialties:** Financial Planning, , Data Analysis, automation, Quantitative analysis, Capex Intelligence.
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [[linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/santiago-parra-data-analyst/?locale=en_US))
+- **LinkedIn:** https://www.linkedin.com/in/santiago-parra-data-analyst/?locale=en_US
 - **Email:** parraduransantiago@gmail.com
 - **Portfolio:** Check my pinned repositories below! ↓
